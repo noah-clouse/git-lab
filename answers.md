@@ -90,4 +90,15 @@ Date:   Sat May 27 20:14:08 2023 -0400
 
     Initial commit
 
-Answer 9. 
+Answer 9. On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10. No, these changes were not reflected properly
+
+Answer 11. I get an error message that states I cannot push due to my remote repository ocntaining work I don't have locally
+
+Answer 12. YES!! changes were reflected locally
+
+Answer 13. .  ..  .git  README.md
